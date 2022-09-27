@@ -1,4 +1,6 @@
-# Net_Practice
+# Net_Practice 🕸
+
+## Links helped me understand Net_Practice :)
 
 TCP/IP addressing
 - [Everything about TCP/IP](https://www.ibm.com/docs/en/aix/7.2?topic=protocol-tcpip-addressing)
