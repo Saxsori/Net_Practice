@@ -27,5 +27,5 @@ Comparison
 - [Routers vs. Switches vs. Access Points - And More](https://www.youtube.com/watch?v=Vc16CCAAz7Q)
 - [Difference between Router and Switch](https://www.youtube.com/watch?v=O5jAQwAN8mo)
 
-Internet
+About Internet
 - [How does the INTERNET work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
