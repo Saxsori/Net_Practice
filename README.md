@@ -6,7 +6,7 @@ TCP/IP addressing
 - [Everything about TCP/IP](https://www.ibm.com/docs/en/aix/7.2?topic=protocol-tcpip-addressing)
 - [Introduction to Computer Networks](https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
-What is LAN WAN and Subnetting?
+What is LAN WAN and Subnet?
 - [LAN, WAN, SUBNET - EXPLAINED](https://www.youtube.com/watch?v=NyZWSvSj8ek)
 
 What is a router?
