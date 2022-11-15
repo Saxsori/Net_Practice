@@ -1,5 +1,5 @@
 # Net_Practice 🕸
-General practical exercise to discover networking, understand TCP/IP addressing, solve networking problems to make a network run. There are 10 levels available for training.
+General practical exercise to discover networking, understand TCP/IP addressing, solve networking problems to make a network run. There were 10 levels available for training.
 
 ### Example:
 ![image](https://user-images.githubusercontent.com/92129820/201529818-d72041d0-0e1f-4f1c-970c-0667c58946be.png)
